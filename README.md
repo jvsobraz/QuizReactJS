@@ -1,1 +1,1 @@
-# QuizReactJS
+# Quiz React JS
